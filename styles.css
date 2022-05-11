@@ -1,0 +1,55 @@
+:root{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #333333;
+    text-align: center;
+}
+
+.Main {
+    background-color:  #dddddd;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.Title {
+    font-size: 2.5rem;
+}
+
+.SubTitle {
+    margin-top: -1rem;
+    font-style: italic;
+}
+
+.FigureContainer {
+    background-color: #ffffff;
+    padding: .5rem .25rem;
+}
+
+img {
+    width: 100%;
+    max-width: 800px;
+
+}
+
+figcaption {
+    padding: .5rem;
+    font-size: .8em;
+}
+
+.Cite {
+    font-style: italic;
+}
+
+footer {
+    padding: .5rem;
+    background-color: #222222;
+    color: #fff;
+}
+
+footer > span {
+    color: crimson;
+    
+}
